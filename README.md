@@ -9,7 +9,7 @@ This is my solution for a [Frontend Mentor Challenge](https://www.frontendmentor
 
 ## 🌐 Live Demo
 
-Check out the live version here: [Live Site](#)
+Check out the live version here: [Live Site](https://musiolmarco.github.io/Social-Proof-Section/)
 
 ## 📂 Project Overview
 
